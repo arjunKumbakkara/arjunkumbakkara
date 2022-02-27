@@ -14,7 +14,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/arjunkumbakkara/arjunkumbakkara?style=for-the-badge)](https://github.com/arjunkumbakkara)
 
 <h4><p align="center">An Artificial intelligence practitioner passionate about solving the wordly problems with technology.Also, a true believer of  Open Source and Openness .<a href="https://arjunkumbakkara.github.io/"></h4></a></p>
-<h6><p align="center">|CORE FRAMEWORK|></h4></a></p>
+<h6><p align="center">|CORE FRAMEWORK|</h4></a></p>
 <h4><p align="center"> GAP/PROBLEM >> OBSERVE >> BEST INTENT >> SIMPLE APPROACH >> SOLVE ITERATIVELY >> SHARE|REVIEW|RECEIVE|IMPROVE </h3></a></p>
 
 💼 Open to Collaborate or build ideas together ? Feel free to reach @ [email](mailto:arjunkumbakkara@gmail.com) :)
