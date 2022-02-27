@@ -10,15 +10,9 @@
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/arjun.kumbakkara/) 
 [![Visits Badge](https://badges.pufler.dev/visits/arjunkumbakkara/arjunkumbakkara?style=for-the-badge)](https://github.com/arjunkumbakkara)
 
-</p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=arjunkumbakkara)
-
-<br />
-
-Namaste !  This is [Arjun Kumbakkara ](https://arjunkumbakkara.github.io/)  
-
-An artificial intelligence practitioner passionate about solving the wordly problems with technology.Also, a true believer of  Open Source and Openness .
+ <h4><p align="center">An artificial intelligence practitioner passionate about solving the wordly problems with technology.Also, a true believer of  Open Source and Openness .<a href="https://arjunkumbakkara.github.io/">width="35px"></h4></a></p>
+ 
+ 
 
 
 The lifecycle could be as simple as:
