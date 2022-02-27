@@ -37,7 +37,7 @@ GAN          40 mins          ░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, LETS CATCH UP OVER A COFFEE 👉👈 <a href="https://www.buymeacoffee.com/arjunkumbakkara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Lets catch up" width="150" ></a>
+if you like what i do, LETS CATCH UP OVER A COFFEE 👉👈       <a href="https://www.buymeacoffee.com/arjunkumbakkara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Lets catch up" width="150" ></a>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
                 width="28" /> 📈 Github Vitals:</h2> </summary>
@@ -52,8 +52,8 @@ Daily Updated Resource:
 [READ MY SAIL](https://medium.com/@arjunkumbakkara)
 
 
-For Collaboration , Help and Learning things together —
-Join our Discord Server : https://discord.gg/Z7Kx96CYGJ
+#### For Collaboration , Help and Learning things together —
+#### Join our Discord Server : https://discord.gg/Z7Kx96CYGJ
 
 
 
@@ -78,7 +78,7 @@ Join our Discord Server : https://discord.gg/Z7Kx96CYGJ
 
 
 
-I say: Lets "JUST DO IT ALREADY!"
+### I say: Lets "JUST DO IT ALREADY!"
 
 
 
