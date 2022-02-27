@@ -19,10 +19,13 @@
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Namaste !  THis is [Arjun Kumbakkara ](https://arjunkumbakkara.github.io/), 
+An artificial intelligence practitioner passionate about solving the wordly problems with technology.Also, a true believer of  Open Source and Openness .
+The lifecycle could be as simple as:
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+ GAP/PROBLEM >  OBSERVE > RIGHT INTENT > APPROACH > SOLVE ITERATIVELY > SHARE ,REVIEW ,RECEIVE ,IMPROVE ! 
 
+Nothing is built perfect  , Human beings and Code alike! 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
