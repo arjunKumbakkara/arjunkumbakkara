@@ -10,18 +10,16 @@
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/arjun.kumbakkara/) 
 [![Visits Badge](https://badges.pufler.dev/visits/arjunkumbakkara/arjunkumbakkara?style=for-the-badge)](https://github.com/arjunkumbakkara)
 
- <h4><p align="center">An artificial intelligence practitioner passionate about solving the wordly problems with technology.Also, a true believer of  Open Source and Openness .<a href="https://arjunkumbakkara.github.io/">width="35px"></h4></a></p>
+ <h4><p align="center">An artificial intelligence practitioner passionate about solving the wordly problems with technology.Also, a true believer of  Open Source and Openness .<a href="https://arjunkumbakkara.github.io/"></h4></a></p>
  
- 
+### The lifecycle could be as simple as:
+  <h4><p align="center">GAP/PROBLEM >  OBSERVE > RIGHT INTENT > APPROACH > SOLVE ITERATIVELY > SHARE ,REVIEW ,RECEIVE ,IMPROVE ! <a href="https://arjunkumbakkara.github.io/"></h3></a></p>
+  
+  <h4><p align="center">GAP/PROBLEM >" Nothing is built perfect  , Human beings and Code alike!"></h3></p>
 
+                                    
 
-The lifecycle could be as simple as:
- GAP/PROBLEM >  OBSERVE > RIGHT INTENT > APPROACH > SOLVE ITERATIVELY > SHARE ,REVIEW ,RECEIVE ,IMPROVE ! 
-
-
-                                      Nothing is built perfect  , Human beings and Code alike! 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/arjunKumbakkara/arjunkumbakkara/blob/main/assets/UltimateCoding1.gif" width="300" height="220" />
   
 - 💼 Open to Collaborate or build ideas together ? Feel free to reach @ [email](mailto:abhishek.naidu@hotmail.com) :)
 - 
