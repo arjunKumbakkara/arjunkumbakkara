@@ -12,14 +12,11 @@
 
  <h4><p align="center">An artificial intelligence practitioner passionate about solving the wordly problems with technology.Also, a true believer of  Open Source and Openness .<a href="https://arjunkumbakkara.github.io/"></h4></a></p>
  
-### The lifecycle could be as simple as:
-  <h4><p align="center">GAP/PROBLEM >  OBSERVE > RIGHT INTENT > APPROACH > SOLVE ITERATIVELY > SHARE ,REVIEW ,RECEIVE ,IMPROVE ! <a href="https://arjunkumbakkara.github.io/"></h3></a></p>
-  
-  <h4><p align="center">GAP/PROBLEM >" Nothing is built perfect  , Human beings and Code alike!"></h3></p>
+The creation framework could be as simple as:
+  <h4><p align="center">GAP/PROBLEM >  OBSERVE > RIGHT INTENT > APPROACH > SOLVE ITERATIVELY > SHARE ,REVIEW ,RECEIVE ,IMPROVE !</h3></a></p>
+                               
 
-                                    
-
-  <img align="right" alt="GIF" src="https://github.com/arjunKumbakkara/arjunkumbakkara/blob/main/assets/UltimateCoding1.gif" width="300" height="220" />
+  <img align="center" alt="GIF" src="https://github.com/arjunKumbakkara/arjunkumbakkara/blob/main/assets/UltimateCoding1.gif" width="400" height="280" />
   
 - 💼 Open to Collaborate or build ideas together ? Feel free to reach @ [email](mailto:abhishek.naidu@hotmail.com) :)
 - 
