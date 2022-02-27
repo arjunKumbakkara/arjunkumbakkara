@@ -1,21 +1,17 @@
 ### NAMASTE ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/arjunkumbakkara_/">
-  <img align="left" alt="ArjunKumbakkara's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.com/ArjunKumbakkara#7858">
-  <img align="left" alt="ArjunKumbakkara's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/arjunkumbakkara">
-  <img align="left" alt="ArjunKumbakkara's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/arjunkumbakkara/">
-  <img align="left" alt="ArjunKumbakkara's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/31zmthjkjcomm35fljj6mv2yrszu">
-  <img align="left" alt="ArjunKumbakkara's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+<p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://arjunkumbakkara.github.io/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arjunkumbakkara) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arjunkumbakkara/)
+[<img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@arjunkumbakkara)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arjunkumbakkara_/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/arjun.kumbakkara/) 
+[![Visits Badge](https://badges.pufler.dev/visits/arjunkumbakkara/arjunkumbakkara?style=for-the-badge)](https://github.com/arjunkumbakkara)
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+</p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=arjunkumbakkara)
 
 <br />
 
@@ -76,19 +72,24 @@ Join our Discord Server : https://discord.gg/Z7Kx96CYGJ
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
 
-<p align = "center">
- 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://arjunkumbakkara.github.io/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arjunkumbakkara) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arjunkumbakkara/)
-[<img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@arjunkumbakkara)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arjunkumbakkara_/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/arjun.kumbakkara/) 
-[![Visits Badge](https://badges.pufler.dev/visits/arjunkumbakkara/arjunkumbakkara?style=for-the-badge)](https://github.com/arjunkumbakkara)https://badges.pufler.dev/gists/{arjunkumbakkara}
+<a href="https://www.instagram.com/arjunkumbakkara_/">
+  <img align="left" alt="ArjunKumbakkara's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.com/ArjunKumbakkara#7858">
+  <img align="left" alt="ArjunKumbakkara's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/arjunkumbakkara">
+  <img align="left" alt="ArjunKumbakkara's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/arjunkumbakkara/">
+  <img align="left" alt="ArjunKumbakkara's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/31zmthjkjcomm35fljj6mv2yrszu">
+  <img align="left" alt="ArjunKumbakkara's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-</p>
 
-Lets     "JUST DO IT ALREADY! "
+I say: Lets "JUST DO IT ALREADY!"
 
 
 
