@@ -19,43 +19,60 @@
 
 <br />
 
-Namaste !  THis is [Arjun Kumbakkara ](https://arjunkumbakkara.github.io/), 
-An artificial intelligence practitioner passionate about solving the wordly problems with technology.Also, a true believer of  Open Source and Openness .
-The lifecycle could be as simple as:
+Namaste !  This is [Arjun Kumbakkara ](https://arjunkumbakkara.github.io/)  
 
+An artificial intelligence practitioner passionate about solving the wordly problems with technology.Also, a true believer of  Open Source and Openness .
+
+
+The lifecycle could be as simple as:
  GAP/PROBLEM >  OBSERVE > RIGHT INTENT > APPROACH > SOLVE ITERATIVELY > SHARE ,REVIEW ,RECEIVE ,IMPROVE ! 
 
-Nothing is built perfect  , Human beings and Code alike! 
+
+                                      Nothing is built perfect  , Human beings and Code alike! 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Open to Collaborate or build ideas together ? Feel free to reach @ [email](mailto:abhishek.naidu@hotmail.com) :)
-- 💬 Anything Anytime .If unknown, Lets make it known!
+- 
+- 💬 Anything Anytime .If anything is unknown, Lets make it known together!
+-
 
 **Tech I play with now: **  
 <p align="left"> <a href="https://huggingface.co/" target="_blank"> <img alt="HuggingFace Transformers"  src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://dvc.org/" target="_blank"> <img alt="DVC"  src="https://storage.yandexcloud.net/datasouls-ods/cache/3e/ae/3eae0f21c019cbbd0fb615d7d16e27a0.jpg" width="40" height="40"/></a> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img alt="FastAPI"  src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" height="40"/></a><a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></p>
 
-📊 **Effort Scheme**
+📊 **Current Effort Scheme**
 <!--START_SECTION:waka-->
 ```text
-Artificial Intelligence :Python   17 hrs 50 mins  ██████████████████████▒░░   89.66 % 
-Java                              9 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-MLFlow                            3 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-GNN                               21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-GAN                               40 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Artificial Intelligence 
+Python       17 hrs 50 mins  ██████████████████████▒░░   89.66 % 
+Java         9 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+MLFlow       3 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+GNN          55mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+GAN          40 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what i do, LETS CATCH UP OVER A COFFEE 👉👈
 
 <a href="https://www.buymeacoffee.com/arjunkumbakkara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Lets catch up" width="150" ></a>
 
 📈 Github Vitals:
+[![ArjunKumbakkara](https://github-readme-streak-stats.herokuapp.com?user=arjunkumbakkara&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![ArjunKumbakkara's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=arjunkumbakkara&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=arjunkumbakkara&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</p>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt" alt="arjunkumbakkara" />
+[![READ MY SAIL](https://medium.com/@arjunkumbakkara)
+
+
+For Collaboration , Help and Learning things together —
+Join our Discord Server : https://discord.gg/Z7Kx96CYGJ
+
+Lets     "JUST DO IT ALREADY! "
+
 
 
 
