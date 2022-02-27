@@ -56,8 +56,8 @@ if you like what i do, LETS CATCH UP OVER A COFFEE 👉👈
 
 <a href="https://www.buymeacoffee.com/arjunkumbakkara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Lets catch up" width="150" ></a>
 
-📈 Github Vitals:
-[![ArjunKumbakkara](https://github-readme-streak-stats.herokuapp.com?user=arjunkumbakkara&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
+                width="28" /> 📈 Github Vitals:</h2> </summary>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=arjunkumbakkara&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
@@ -65,11 +65,27 @@ if you like what i do, LETS CATCH UP OVER A COFFEE 👉👈
 </p>
 
 
-[![READ MY SAIL](https://medium.com/@arjunkumbakkara)
+[[READ MY SAIL](https://medium.com/@arjunkumbakkara)
 
 
 For Collaboration , Help and Learning things together —
 Join our Discord Server : https://discord.gg/Z7Kx96CYGJ
+
+
+
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" /> To connect with me</h2></summary>
+
+<p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://arjunkumbakkara.github.io/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arjunkumbakkara) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arjunkumbakkara/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arjunkumbakkara_/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/arjun.kumbakkara/) 
+[![Visits Badge](https://badges.pufler.dev/visits/arjunkumbakkara/arjunkumbakkara?style=for-the-badge)](https://github.com/arjunkumbakkara)
+
+</p>
 
 Lets     "JUST DO IT ALREADY! "
 
