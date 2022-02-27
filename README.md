@@ -1,5 +1,6 @@
-### NAMASTE ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align = "center">
+ 
+ <h1><p align="center">NAMASTE ,  Here  Arjun Kumbakkara  <a href="https://arjunkumbakkara.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
  
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://arjunkumbakkara.github.io/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arjunkumbakkara) 
