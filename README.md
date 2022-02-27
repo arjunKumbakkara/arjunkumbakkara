@@ -3,7 +3,7 @@
  <h1><p align="center">NAMASTE ,  Here  Arjun Kumbakkara  <a href="https://arjunkumbakkara.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
  
  <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+ src="https://github.com/arjunKumbakkara/arjunkumbakkara/blob/main/assets/UltimateCoding1.gif" width="40%"/></p>
  
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://arjunkumbakkara.github.io/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arjunkumbakkara) 
@@ -13,13 +13,14 @@
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/arjun.kumbakkara/) 
 [![Visits Badge](https://badges.pufler.dev/visits/arjunkumbakkara/arjunkumbakkara?style=for-the-badge)](https://github.com/arjunkumbakkara)
 
- <h4><p align="center">An artificial intelligence practitioner passionate about solving the wordly problems with technology.Also, a true believer of  Open Source and Openness .<a href="https://arjunkumbakkara.github.io/"></h4></a></p>
- 
-The creation framework could be as simple as:
-<h4><p align="center">GAP/PROBLEM >  OBSERVE > RIGHT INTENT > APPROACH > SOLVE ITERATIVELY > SHARE ,REVIEW ,RECEIVE ,IMPROVE !</h3></a></p>
+<h4><p align="center">An artificial intelligence practitioner passionate about solving the wordly problems with technology.Also, a true believer of  Open Source and Openness .<a href="https://arjunkumbakkara.github.io/"></h4></a></p>
 
-💼 Open to Collaborate or build ideas together ? Feel free to reach @ [email](mailto:abhishek.naidu@hotmail.com) :)
+CORE FRAMEWORK : <h4><p align="center"> GAP/PROBLEM >> OBSERVE >> BEST INTENT >> SIMPLE APPROACH >> SOLVE ITERATIVELY >> SHARE|REVIEW|RECEIVE|IMPROVE </h3></a></p>
+
+💼 Open to Collaborate or build ideas together ? Feel free to reach @ [email](mailto:arjunkumbakkara@gmail.com) :)
+
 💬 Anything Anytime .If anything is unknown, Lets make it known together!
+
 
 **Tech I play with now: **  
 <p align="left"> <a href="https://huggingface.co/" target="_blank"> <img alt="HuggingFace Transformers"  src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://dvc.org/" target="_blank"> <img alt="DVC"  src="https://storage.yandexcloud.net/datasouls-ods/cache/3e/ae/3eae0f21c019cbbd0fb615d7d16e27a0.jpg" width="40" height="40"/></a> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img alt="FastAPI"  src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" height="40"/></a><a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></p>
