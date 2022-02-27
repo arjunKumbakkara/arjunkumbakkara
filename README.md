@@ -14,7 +14,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/arjunkumbakkara/arjunkumbakkara?style=for-the-badge)](https://github.com/arjunkumbakkara)
 
 <h4><p align="center">An Artificial intelligence practitioner passionate about solving the wordly problems with technology.Also, a true believer of  Open Source and Openness .<a href="https://arjunkumbakkara.github.io/"></h4></a></p>
-<h6><p align="center">":CORE FRAMEWORK:"></h4></a></p>
+<h6><p align="center">|CORE FRAMEWORK|></h4></a></p>
 <h4><p align="center"> GAP/PROBLEM >> OBSERVE >> BEST INTENT >> SIMPLE APPROACH >> SOLVE ITERATIVELY >> SHARE|REVIEW|RECEIVE|IMPROVE </h3></a></p>
 
 💼 Open to Collaborate or build ideas together ? Feel free to reach @ [email](mailto:arjunkumbakkara@gmail.com) :)
@@ -58,7 +58,7 @@ Daily Updated Resource:
 
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" />LETS CONNECT</h2></summary>
+                width="28" /> LETS CONNECT</h2></summary>
 
 <a href="https://www.instagram.com/arjunkumbakkara_/">
   <img align="left" alt="ArjunKumbakkara's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -75,6 +75,9 @@ Daily Updated Resource:
 <a href="https://open.spotify.com/user/31zmthjkjcomm35fljj6mv2yrszu">
   <img align="left" alt="ArjunKumbakkara's" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
+
+
 
 
 
