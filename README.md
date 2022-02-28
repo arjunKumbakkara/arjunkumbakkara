@@ -1,6 +1,6 @@
 <p align = "center">
  
- <h1><p align="center">NAMASTE ,  Arjun Kumbakkara  here <a href="https://arjunkumbakkara.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+ <h1><p align="center">NAMASKARAM ,  Arjun Kumbakkara  here <a href="https://arjunkumbakkara.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
  
  <p align="center" ><img 
  src="https://github.com/arjunKumbakkara/arjunkumbakkara/blob/main/assets/UltimateCoding1.gif" width="40%"/></p>
