@@ -1,124 +1,86 @@
+
 <p align="center">
-  <h1 align="center">👋 Namaskaram! I'm Arjun Kumbakkara</h1>
-  <p align="center"><a href="https://arjunkumbakkara.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>
-  <img src="https://avatars.githubusercontent.com/u/151678109?s=200&v=4" alt="Unsloth" width="40" height="40"/>  <!-- Unsloth -->
-  <img src="https://ollama.com/public/ollama-mark.svg" alt="Ollama" width="40" height="40"/>  <!-- Ollama -->
-  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>  <!-- MLflow -->
-  <img src="https://avatars.githubusercontent.com/u/80137531?s=200&v=4" alt="LangChain" width="40" height="40"/>  <!-- LangChain -->
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>  <!-- AWS -->
-  <img src="https://www.vectorlogo.zone/logos/weaviate/weaviate-icon.svg" alt="Weaviate" width="40" height="40"/>  <!-- Weaviate -->
-</p>
-  <p align="center"><img src="https://github.com/arjunKumbakkara/arjunkumbakkara/blob/main/assets/UltimateCoding1.gif" width="40%"/>
-  <img src="https://avatars.githubusercontent.com/u/151678109?s=200&v=4" alt="Unsloth" width="40" height="40"/>  <!-- Unsloth -->
-  <img src="https://ollama.com/public/ollama-mark.svg" alt="Ollama" width="40" height="40"/>  <!-- Ollama -->
-  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>  <!-- MLflow -->
-  <img src="https://avatars.githubusercontent.com/u/80137531?s=200&v=4" alt="LangChain" width="40" height="40"/>  <!-- LangChain -->
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>  <!-- AWS -->
-  <img src="https://www.vectorlogo.zone/logos/weaviate/weaviate-icon.svg" alt="Weaviate" width="40" height="40"/>  <!-- Weaviate -->
+  <h1 align="center">👋 NAMASKARAM, I'm Arjun Kumbakkara</h1>
+  <p align="center">🚀 Architecting Real-World AI Solutions using GenAI, Agentic RAG, and NLP</p>
+  <p align="center">
+    <img src="https://github.com/arjunKumbakkara/arjunkumbakkara/blob/main/assets/UltimateCoding1.gif" width="40%" />
+  </p>
 </p>
 
-  <img src="https://avatars.githubusercontent.com/u/151678109?s=200&v=4" alt="Unsloth" width="40" height="40"/>  <!-- Unsloth -->
-  <img src="https://ollama.com/public/ollama-mark.svg" alt="Ollama" width="40" height="40"/>  <!-- Ollama -->
-  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>  <!-- MLflow -->
-  <img src="https://avatars.githubusercontent.com/u/80137531?s=200&v=4" alt="LangChain" width="40" height="40"/>  <!-- LangChain -->
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>  <!-- AWS -->
-  <img src="https://www.vectorlogo.zone/logos/weaviate/weaviate-icon.svg" alt="Weaviate" width="40" height="40"/>  <!-- Weaviate -->
+<p align="center">
+  <a href="https://arjunkumbakkara.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/arjunkumbakkara/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@arjunkumbakkara"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://twitter.com/arjunkumbakkara"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
 
-🚀 **Crafting GenAI Systems | Agentic AI Architect | NLP Specialist**
+### 🧠 About Me
 
-I'm a hands-on AI practitioner with proven **production experience in building GenAI applications**, including **RAG**, **Agentic pipelines**, and **transformer-based systems**. From designing robust data ingestion flows to fine-tuning state-of-the-art models and deploying scalable solutions, I bridge the gap between cutting-edge research and real-world impact.
-
----
-
-💡 **Core Focus Areas**
-- 🧠 **NLP & Foundation Models** — Specializing in LLM customization, prompt engineering, embeddings, and token-efficient pipelines.
-- 📚 **Retrieval-Augmented Generation (RAG)** — Architecting performant hybrid retrieval + generation systems with deep knowledge grounding.
-- 🤖 **Agentic AI Systems** — Designing LLM-driven agents with memory, planning, and orchestration layers for decision-making.
-- 🛠️ **Fine-Tuning & Transformers** — Extensive experience in parameter-efficient fine-tuning (LoRA, QLoRA, DPO, SFT) and custom model pipelines.
-- 🧱 **System Design** — Building scalable MLOps and GenAI stacks with Docker, FastAPI, MLflow, and vector databases like FAISS and Weaviate.
+I’m a Senior AI Technologist specializing in building **agentic GenAI solutions**, fine-tuned **transformer-based NLP systems**, and **RAG-powered pipelines**. With hands-on production experience across telecom, enterprise AI, and cloud-native stacks, I design systems that are **robust, scalable, and business-ready**.
 
 ---
 
-🧪 **In Production:**
-- ✅ Finetuned and deployed multiple domain-specific LLMs in enterprise environments.
-- ✅ Built full-stack GenAI agents (retrievers, planners, reactors) for search, support automation, and decision assistance.
-- ✅ Implemented custom **RAG frameworks with memory, context expansion, and long-document handling**.
-- ✅ Designed end-to-end MLOps pipelines with GitOps, CI/CD, versioning, and model monitoring.
+### 🧩 My Core Focus Areas
+
+- 🔍 **Retrieval-Augmented Generation (RAG)**
+- 🤖 **Agentic AI Systems**
+- 🗣️ **Natural Language Understanding**
+- 🛠️ **Production-Grade AI System Architecture**
 
 ---
 
-📦 **Tech Stack**
+### 🛠️ Tech I Work With
+
 <p align="left">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
-  <img src="https://vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40"/>
-  <img src="https://vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-  <img src="https://vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-
-  <img src="https://avatars.githubusercontent.com/u/151678109?s=200&v=4" alt="Unsloth" width="40" height="40"/>  <!-- Unsloth -->
-  <img src="https://ollama.com/public/ollama-mark.svg" alt="Ollama" width="40" height="40"/>  <!-- Ollama -->
-  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>  <!-- MLflow -->
-  <img src="https://avatars.githubusercontent.com/u/80137531?s=200&v=4" alt="LangChain" width="40" height="40"/>  <!-- LangChain -->
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>  <!-- AWS -->
-  <img src="https://www.vectorlogo.zone/logos/weaviate/weaviate-icon.svg" alt="Weaviate" width="40" height="40"/>  <!-- Weaviate -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/139914869?s=200&v=4" width="40" title="Unsloth"/>
+  <img src="https://avatars.githubusercontent.com/u/16985234?s=200&v=4" width="40" title="Ollama"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
 ---
 
-📈 **Current Focus**
-```text
-GenAI Systems | Transformer Architectures | RAG Optimization
-Agent Workflows | LoRA/DPO/QLoRA | Open-Source AI Ops
-```
+### 📈 Projects That Define Me
+
+| Project | Description |
+|--------|-------------|
+| 🧠 **SIM Profile Intelligence Assistant** | A GenAI-powered assistant for eSIM workflows using RAG & backend API chaining |
+| ⚙️ **Charging Engine Explainability Bot** | Explains OCS/charging rules using LLMs, RAG, and prompt chaining |
+| 🌍 **RoamPulse** | Event-stream intelligence platform using HSS TCP socket streams and cloud-native ingestion |
+| 🤖 **SIMGenie** | Agentic provisioning flow for SFT SIMs with user-step orchestration via LLMs |
 
 ---
 
-🔗 **Let’s Connect & Collaborate**
+### ☕ Let’s Build Something Together
 
-<a href="https://www.linkedin.com/in/arjunkumbakkara/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://twitter.com/arjunkumbakkara"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://medium.com/@arjunkumbakkara"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="mailto:arjunkumbakkara@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+📬 [arjunkumbakkara@gmail.com](mailto:arjunkumbakkara@gmail.com)
 
-☕ [Buy me a coffee](https://www.buymeacoffee.com/arjunkumbakkara) if you like what I build.
+<a href="https://www.buymeacoffee.com/arjunkumbakkara" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me a Coffee" width="160"/>
+</a>
 
 ---
 
-📊 **GitHub Stats**
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunkumbakkara&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arjunkumbakkara&theme=tokyonight" width="49%">
-
-  <img src="https://avatars.githubusercontent.com/u/151678109?s=200&v=4" alt="Unsloth" width="40" height="40"/>  <!-- Unsloth -->
-  <img src="https://ollama.com/public/ollama-mark.svg" alt="Ollama" width="40" height="40"/>  <!-- Ollama -->
-  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>  <!-- MLflow -->
-  <img src="https://avatars.githubusercontent.com/u/80137531?s=200&v=4" alt="LangChain" width="40" height="40"/>  <!-- LangChain -->
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>  <!-- AWS -->
-  <img src="https://www.vectorlogo.zone/logos/weaviate/weaviate-icon.svg" alt="Weaviate" width="40" height="40"/>  <!-- Weaviate -->
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunkumbakkara&show_icons=true&count_private=true&theme=vue&hide=issues" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arjunkumbakkara&theme=tokyonight&hide_border=true" />
 </p>
 
----
+### 🗺️ GitHub Activity
 
-📚 **I write here:** [Medium Blog](https://medium.com/@arjunkumbakkara)  
-🎧 **I listen here:** [Spotify](https://open.spotify.com/user/31zmthjkjcomm35fljj6mv2yrszu)
-
-
----
-
-📍 **GitHub Activity Map**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunkumbakkara&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arjunkumbakkara&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" />
 </p>
-
-
----
-
-> “Systems fail in complexity, succeed in design. My mission is to keep AI simple, scalable, and human-centric.” – *Arjun K*
