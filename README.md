@@ -16,7 +16,7 @@
 
 ---
 
-###  About Me
+###  Who am I?
 
 I’m a Senior AI Technologist specializing in building **agentic GenAI solutions**, fine-tuned **transformer-based NLP systems**, and **RAG-powered pipelines**. With hands-on production experience across telecom, enterprise AI, and cloud-native stacks, I design systems that are **robust, scalable, and business-ready**.
 
