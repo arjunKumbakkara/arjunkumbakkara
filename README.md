@@ -1,7 +1,28 @@
 <p align="center">
   <h1 align="center">👋 Namaskaram! I'm Arjun Kumbakkara</h1>
-  <p align="center"><a href="https://arjunkumbakkara.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></p>
-  <p align="center"><img src="https://github.com/arjunKumbakkara/arjunkumbakkara/blob/main/assets/UltimateCoding1.gif" width="40%"/></p>
+  <p align="center"><a href="https://arjunkumbakkara.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>
+  <img src="https://avatars.githubusercontent.com/u/151678109?s=200&v=4" alt="Unsloth" width="40" height="40"/>  <!-- Unsloth -->
+  <img src="https://ollama.com/public/ollama-mark.svg" alt="Ollama" width="40" height="40"/>  <!-- Ollama -->
+  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>  <!-- MLflow -->
+  <img src="https://avatars.githubusercontent.com/u/80137531?s=200&v=4" alt="LangChain" width="40" height="40"/>  <!-- LangChain -->
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>  <!-- AWS -->
+  <img src="https://www.vectorlogo.zone/logos/weaviate/weaviate-icon.svg" alt="Weaviate" width="40" height="40"/>  <!-- Weaviate -->
+</p>
+  <p align="center"><img src="https://github.com/arjunKumbakkara/arjunkumbakkara/blob/main/assets/UltimateCoding1.gif" width="40%"/>
+  <img src="https://avatars.githubusercontent.com/u/151678109?s=200&v=4" alt="Unsloth" width="40" height="40"/>  <!-- Unsloth -->
+  <img src="https://ollama.com/public/ollama-mark.svg" alt="Ollama" width="40" height="40"/>  <!-- Ollama -->
+  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>  <!-- MLflow -->
+  <img src="https://avatars.githubusercontent.com/u/80137531?s=200&v=4" alt="LangChain" width="40" height="40"/>  <!-- LangChain -->
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>  <!-- AWS -->
+  <img src="https://www.vectorlogo.zone/logos/weaviate/weaviate-icon.svg" alt="Weaviate" width="40" height="40"/>  <!-- Weaviate -->
+</p>
+
+  <img src="https://avatars.githubusercontent.com/u/151678109?s=200&v=4" alt="Unsloth" width="40" height="40"/>  <!-- Unsloth -->
+  <img src="https://ollama.com/public/ollama-mark.svg" alt="Ollama" width="40" height="40"/>  <!-- Ollama -->
+  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>  <!-- MLflow -->
+  <img src="https://avatars.githubusercontent.com/u/80137531?s=200&v=4" alt="LangChain" width="40" height="40"/>  <!-- LangChain -->
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>  <!-- AWS -->
+  <img src="https://www.vectorlogo.zone/logos/weaviate/weaviate-icon.svg" alt="Weaviate" width="40" height="40"/>  <!-- Weaviate -->
 </p>
 
 ---
@@ -41,6 +62,13 @@ I'm a hands-on AI practitioner with proven **production experience in building G
   <img src="https://vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
   <img src="https://vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+
+  <img src="https://avatars.githubusercontent.com/u/151678109?s=200&v=4" alt="Unsloth" width="40" height="40"/>  <!-- Unsloth -->
+  <img src="https://ollama.com/public/ollama-mark.svg" alt="Ollama" width="40" height="40"/>  <!-- Ollama -->
+  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>  <!-- MLflow -->
+  <img src="https://avatars.githubusercontent.com/u/80137531?s=200&v=4" alt="LangChain" width="40" height="40"/>  <!-- LangChain -->
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>  <!-- AWS -->
+  <img src="https://www.vectorlogo.zone/logos/weaviate/weaviate-icon.svg" alt="Weaviate" width="40" height="40"/>  <!-- Weaviate -->
 </p>
 
 ---
@@ -68,12 +96,28 @@ Agent Workflows | LoRA/DPO/QLoRA | Open-Source AI Ops
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arjunkumbakkara&show_icons=true&theme=radical" width="49%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arjunkumbakkara&theme=tokyonight" width="49%">
+
+  <img src="https://avatars.githubusercontent.com/u/151678109?s=200&v=4" alt="Unsloth" width="40" height="40"/>  <!-- Unsloth -->
+  <img src="https://ollama.com/public/ollama-mark.svg" alt="Ollama" width="40" height="40"/>  <!-- Ollama -->
+  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>  <!-- MLflow -->
+  <img src="https://avatars.githubusercontent.com/u/80137531?s=200&v=4" alt="LangChain" width="40" height="40"/>  <!-- LangChain -->
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>  <!-- AWS -->
+  <img src="https://www.vectorlogo.zone/logos/weaviate/weaviate-icon.svg" alt="Weaviate" width="40" height="40"/>  <!-- Weaviate -->
 </p>
 
 ---
 
 📚 **I write here:** [Medium Blog](https://medium.com/@arjunkumbakkara)  
 🎧 **I listen here:** [Spotify](https://open.spotify.com/user/31zmthjkjcomm35fljj6mv2yrszu)
+
+
+---
+
+📍 **GitHub Activity Map**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunkumbakkara&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 ---
 
