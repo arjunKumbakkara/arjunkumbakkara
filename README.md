@@ -1,7 +1,7 @@
 
 <p align="center">
   <h1 align="center">👋 NAMASKARAM, I'm Arjun Kumbakkara</h1>
-  <p align="center">Architecting Real-World AI Solutions using GenAI, Agentic RAG, and NLP</p>
+  <p align="center">🚀 Architecting Real-World AI Solutions using GenAI, Agentic RAG, and NLP</p>
   <p align="center">
     <img src="https://github.com/arjunKumbakkara/arjunkumbakkara/blob/main/assets/UltimateCoding1.gif" width="40%" />
   </p>
@@ -31,7 +31,35 @@ I’m a Senior AI Technologist specializing in building **agentic GenAI solution
 
 ---
 
+---
+
 ### 🛠️ Tech I Work With
+
+<p align="left">
+  <!-- Core AI Tools -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" title="HuggingFace"/>
+  <img src="https://avatars.githubusercontent.com/u/15883161?s=200&v=4" width="40" title="LangChain"/>
+  <img src="https://avatars.githubusercontent.com/u/137336380?s=200&v=4" width="40" title="LangGraph"/>
+  <img src="https://avatars.githubusercontent.com/u/148252176?s=200&v=4" width="40" title="LangSmith"/>
+  <img src="https://avatars.githubusercontent.com/u/131131674?s=200&v=4" width="40" title="LangFlow"/>
+  <img src="https://avatars.githubusercontent.com/u/168802094?s=200&v=4" width="40" title="CrewAI"/>
+  <img src="https://avatars.githubusercontent.com/u/139914869?s=200&v=4" width="40" title="Unsloth"/>
+  <img src="https://avatars.githubusercontent.com/u/16985234?s=200&v=4" width="40" title="Ollama"/>
+  <img src="https://avatars.githubusercontent.com/u/3577550?s=200&v=4" width="40" title="MLflow"/>
+  <img src="https://avatars.githubusercontent.com/u/47068255?s=200&v=4" width="40" title="BentoML"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="40" title="Redis"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" title="PyTorch"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" title="TensorFlow"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
+</p>
+
+---
 
 <p align="left">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
