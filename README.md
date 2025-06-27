@@ -1,7 +1,7 @@
 
 <p align="center">
   <h1 align="center">👋 NAMASKARAM, I'm Arjun Kumbakkara</h1>
-  <p align="center">🚀 Architecting Real-World AI Solutions using GenAI, Agentic RAG, and NLP</p>
+  <p align="center">Architecting Real-World AI Solutions using GenAI, Agentic RAG, and NLP</p>
   <p align="center">
     <img src="https://github.com/arjunKumbakkara/arjunkumbakkara/blob/main/assets/UltimateCoding1.gif" width="40%" />
   </p>
@@ -51,14 +51,18 @@ I’m a Senior AI Technologist specializing in building **agentic GenAI solution
 
 ---
 
+---
+
 ### 📈 Projects That Define Me
 
 | Project | Description |
 |--------|-------------|
-| 🧠 **SIM Profile Intelligence Assistant** | A GenAI-powered assistant for eSIM workflows using RAG & backend API chaining |
-| ⚙️ **Charging Engine Explainability Bot** | Explains OCS/charging rules using LLMs, RAG, and prompt chaining |
-| 🌍 **RoamPulse** | Event-stream intelligence platform using HSS TCP socket streams and cloud-native ingestion |
-| 🤖 **SIMGenie** | Agentic provisioning flow for SFT SIMs with user-step orchestration via LLMs |
+| 🤖 **Agentic Workflow Orchestrator** | An LLM-driven agent system that sequences and executes API tasks through conversational inputs |
+| 🧠 **LLM-Powered Knowledge Retriever** | A RAG architecture built with vector search for querying enterprise documentation and PDFs |
+| 🗣️ **Conversational Data Pipeline Builder** | NLP agent that dynamically generates data pipelines from natural language requests |
+| 📊 **GenAI Analytics Companion** | A chat-first assistant that transforms user queries into analytical reports and dashboards |
+
+---
 
 ---
 
@@ -82,5 +86,27 @@ I’m a Senior AI Technologist specializing in building **agentic GenAI solution
 ### 🗺️ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arjunkumbakkara&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunkumbakkara&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" />
 </p>
+
+---
+
+### 🏗️ What I’m Currently Building
+
+- **AgentMesh** – A framework to wire up multiple LLM agents that can delegate, reason, and act autonomously across microservices.
+- **AutoRAG Toolkit** – An out-of-the-box library to bootstrap your own Retrieval-Augmented Generation systems with minimal setup.
+- **PromptLab** – An experimental environment to test prompt chaining, memory injection, and input-output schema design.
+
+---
+
+### 📝 Blog Highlights
+
+Here are a few of my latest Medium posts:
+
+- 📌 [Gemma, Firebase & India’s SLM Movement](https://medium.com/@arjunkumbakkara)
+- 📌 [Why Agentic RAG is the Future of Enterprise GenAI](https://medium.com/@arjunkumbakkara)
+- 📌 [Deploying Gemma on GCP Cloud Run in Minutes](https://medium.com/@arjunkumbakkara)
+
+You can find all my writings on [Medium](https://medium.com/@arjunkumbakkara).
+
+---
