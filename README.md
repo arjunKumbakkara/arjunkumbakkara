@@ -16,13 +16,13 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I’m a Senior AI Technologist specializing in building **agentic GenAI solutions**, fine-tuned **transformer-based NLP systems**, and **RAG-powered pipelines**. With hands-on production experience across telecom, enterprise AI, and cloud-native stacks, I design systems that are **robust, scalable, and business-ready**.
 
 ---
 
-### 🧩 My Core Focus Areas
+###  My Core Focus Areas
 
 - 🔍 **Retrieval-Augmented Generation (RAG)**
 - 🤖 **Agentic AI Systems**
@@ -33,7 +33,7 @@ I’m a Senior AI Technologist specializing in building **agentic GenAI solution
 
 ---
 
-### 🛠️ Tech I Work With
+### 🛠 Tech I Work With
 
 <p align="left">
   <!-- Core AI Tools -->
